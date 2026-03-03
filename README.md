@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/banner.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/sasuke GIF.gif" width="600"/>
 </p>
 
 <p align="center">
