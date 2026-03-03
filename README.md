@@ -1,6 +1,13 @@
 <h1 align="center">👋 Hola, soy Ernesto</h1>
 <h3 align="center">🐍 AI Developer | 📱 Android | 🌐 Full Stack</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/banner.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Android+%7C+Python+%7C+Kotlin;Building+Intelligent+Apps" />
+</p>
 ---
 
 ## 🚀 Sobre mí
@@ -33,7 +40,7 @@
 ### 🕹️ Impos2
 IMPOS2 is a multiplayer social deduction game built with modern web technologies. Players receive secret roles, and one or more impostors must blend in without knowing the secret word. The game includes multiple modes: Manual, Semi-manual, Database, Football, Animals, Countries, Movies & Series, and Sports. Optimized for local group play on a single device.
 <p align="center">
-  <img src="Impos2.png" width="700"/>
+  <img src="Impos2.png" width="400"/>
 </p>
 - 🎯 Género:
 - 🛠️ Tecnologías: Kotlin / Android Studio
@@ -41,13 +48,7 @@ IMPOS2 is a multiplayer social deduction game built with modern web technologies
 - 👥 Número de descargas (si quieres agregarlo)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/banner.gif" width="600"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Android+%7C+Python+%7C+Kotlin;Building+Intelligent+Apps" />
-</p>
 ## 🔥 Racha de contribuciones
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Campsito1569&theme=tokyonight&hide_border=true)
