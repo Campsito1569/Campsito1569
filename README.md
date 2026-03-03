@@ -1,5 +1,16 @@
-<h1 align="center">👋 Hola, soy Ernesto</h1>
-<h3 align="center">🐍 AI Developer | 📱 Android | 🌐 Full Stack</h3>
+<h1 align="center">Ernesto Camps</h1>
+<p align="center">
+  Remote-ready Developer • Python • Android (Kotlin) • AI Training
+</p>
+
+<p align="center">
+  <a href="mailto:ernestocamps865@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ernestocamps865%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Add%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/banner.gif" width="600"/>
