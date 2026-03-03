@@ -7,9 +7,6 @@
   <a href="mailto:ernestocamps865@gmail.com">
     <img src="https://img.shields.io/badge/Email-ernestocamps865%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
