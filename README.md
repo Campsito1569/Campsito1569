@@ -41,7 +41,13 @@ IMPOS2 is a multiplayer social deduction game built with modern web technologies
 - 👥 Número de descargas (si quieres agregarlo)
 
 
+<p align="center">
+  <img src="(https://raw.githubusercontent.com/Campsito1569/Campsito1569/main/assets/banner.gif)" width="900"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Android+%7C+Python+%7C+Kotlin;Building+Intelligent+Apps" />
+</p>
 ## 🔥 Racha de contribuciones
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Campsito1569&theme=tokyonight&hide_border=true)
