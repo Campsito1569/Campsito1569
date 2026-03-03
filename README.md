@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Ernesto</h1>
+<h3 align="center">🐍 AI Developer | 📱 Android | 🌐 Full Stack</h3>
 
-<!--
-**Campsito1569/Campsito1569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Entreno modelos de Inteligencia Artificial
+- 🐍 Desarrollo en Python
+- 📱 Desarrollo Android con Kotlin
+- 🌐 Desarrollo Web con TypeScript & React
+- 🔥 Construyendo aplicaciones inteligentes
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Campsito1569&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Campsito1569&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+## 🔥 Racha de contribuciones
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Campsito1569&theme=tokyonight)
+
+---
+
+## 🚀 Objetivo 2026
+Construir proyectos que integren:
+- IA + Mobile
+- Backend en Python
+- Frontend moderno
+
+---
+
+## 📫 Contacto
+📧 ernestocamps865@gmail.com
