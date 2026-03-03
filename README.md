@@ -22,13 +22,23 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
+## 🎮 Juego Publicado en Google Play
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="(https://play.google.com/store/apps/details?id=com.impos2.app&pcampaignid=web_share)">
+    <img src="https://img.shields.io/badge/Disponible%20en-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Campsito1569&theme=tokyonight&hide_border=true)
+### 🕹️ Impos2
+IMPOS2 is a multiplayer social deduction game built with modern web technologies. Players receive secret roles, and one or more impostors must blend in without knowing the secret word. The game includes multiple modes: Manual, Semi-manual, Database, Football, Animals, Countries, Movies & Series, and Sports. Optimized for local group play on a single device.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Campsito1569&theme=tokyonight&no-frame=true)
----
+- 🎯 Género:
+- 🛠️ Tecnologías: Kotlin / Android Studio
+- 🚀 Publicado oficialmente en Google Play
+- 👥 Número de descargas (si quieres agregarlo)
+
+
 
 ## 🔥 Racha de contribuciones
 
