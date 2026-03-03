@@ -33,7 +33,7 @@
 ### 🕹️ Impos2
 IMPOS2 is a multiplayer social deduction game built with modern web technologies. Players receive secret roles, and one or more impostors must blend in without knowing the secret word. The game includes multiple modes: Manual, Semi-manual, Database, Football, Animals, Countries, Movies & Series, and Sports. Optimized for local group play on a single device.
 <p align="center">
-  <img src="impos2.png" width="700"/>
+  <img src="Impos2.png" width="700"/>
 </p>
 - 🎯 Género:
 - 🛠️ Tecnologías: Kotlin / Android Studio
