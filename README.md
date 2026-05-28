@@ -58,6 +58,9 @@ IMPOS2 is a multiplayer social deduction game built with modern web technologies
 # Caja & Gastos
 
 Caja & Gastos es una aplicación móvil diseñada para ayudar a pequeños negocios y emprendedores a gestionar productos, ventas, pedidos, caja, gastos y estadísticas desde una sola herramienta.
+<p align="center">
+  <img src="ventas.png" alt="Caja & Gastos" width="700"/>
+</p>
 
 ## 📌 Estado del proyecto
 
